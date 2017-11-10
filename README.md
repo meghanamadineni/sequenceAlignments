@@ -1,5 +1,5 @@
-# sequenceAlignments
-##Introduction
+# Sequence Alignments
+##Introduction##
 In this project the following are implemented
 1. Global alignment
 2. Local alignment
