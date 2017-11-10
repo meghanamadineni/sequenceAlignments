@@ -20,7 +20,7 @@ for global, local, and dove-tail alignment respectively.<br />
 Sample input files: Sample query, database, alphabet, and scoring matrix files
 are on the e-learning website.
 ## Output
-Output: This program will output the top k alignments over all query/database
+This program will output the top k alignments over all query/database
 sequence pairs along with their score. Each alignment in the output contains
 the score, ids of the sequences, and the starting positions of the alignment. It will
 look like the following:<br />
