@@ -3,8 +3,7 @@
 In this project the following are implemented <br />
 1. Global alignment<br />
 2. Local alignment<br />
-3. End space free (dove-tail) alignment<br />
-according to Needleman-Wunsch and Smith-Waterman methods. 
+3. End space free (dove-tail) alignment<br />according to Needleman-Wunsch and Smith-Waterman methods. 
 ## Inputs
 This program will get the following as input:<br />
 1. an integer that denotes which alignment method will be used. Use 1, 2, and 3
