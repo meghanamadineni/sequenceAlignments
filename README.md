@@ -30,5 +30,5 @@ id2 39 ARLNDKEGYVPRNLLGLYP.<br />
 Here id1 and id2 are ids, 36 and 39 are starting positions.
 ## Execution
 > javac hw1.java <br />
->java hw1 queryfile datafile alphabet scorematrix 10 -3 <br />
+>java hw1 1 queryfile datafile alphabet scorematrix 10 -3 <br />
 to run global alignment and return top 10 results with a gap penalty of -3.
